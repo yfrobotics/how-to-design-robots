@@ -1,0 +1,15 @@
+# Site Configurations
+site_name: 如何设计机器人
+site_description: How to design robots?
+site_author: YunFei Robotics Laboratory
+site_url: ""
+strict: false
+
+docs_dir: docs
+site_dir: site
+
+nav:
+    - 0_intro.md
+    - 1_how-to-start.md
+    
+theme: 'material'
