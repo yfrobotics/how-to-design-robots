@@ -9,7 +9,11 @@ docs_dir: docs
 site_dir: site
 
 nav:
-    - 0_intro.md
-    - 1_how-to-start.md
+    - "0. 序言": index.md
+    - "1. 如何入门机器人？": how-to-start.md
     
 theme: 'material'
+
+# Extensions
+markdown_extensions:
+  - admonition
