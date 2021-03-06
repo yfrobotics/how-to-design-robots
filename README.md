@@ -4,8 +4,8 @@
 
 ## 目录
 
-- [0. 序言](docs/index.md)
-- [1. 如何入门机器人？](docs/how-to-start.md)
+- [0. 序言](docs/0_index.md)
+- [1. 如何入门机器人？](docs/1_how-to-start.md)
 
 ## 离线阅读
 
